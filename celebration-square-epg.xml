@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Codex — City of Mississauga Events API">
+  <channel id="celebration-square.ca">
+    <display-name lang="en">Celebration Square</display-name>
+    <url>https://www.mississauga.ca/arts-and-culture/events/?Location=Celebration%20Square</url>
+  </channel>
+  <programme start="20260715080000 -0400" end="20260715150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25308</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-07-15T08%3A00%3A00&amp;schedule=25308</url>
+  </programme>
+  <programme start="20260715103000 -0400" end="20260715113000 -0400" channel="celebration-square.ca">
+    <title lang="en">Open Air Storytime presented by TD</title>
+    <desc lang="en">Open Air Storytime brings out the kid in all of us. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25403</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/open-air-storytime-2026?eventdate=2026-07-15T10%3A30%3A00&amp;schedule=25403</url>
+  </programme>
+  <programme start="20260715150000 -0400" end="20260715170000 -0400" channel="celebration-square.ca">
+    <title lang="en">Watch the World Play</title>
+    <desc lang="en">FIFA World Cup 2026™ screenings</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25245</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/soccer-screenings-2026?eventdate=2026-07-15T15%3A00%3A00&amp;schedule=25245</url>
+  </programme>
+  <programme start="20260715190000 -0400" end="20260715200000 -0400" channel="celebration-square.ca">
+    <title lang="en">Fresh Air Fitness presented by TD</title>
+    <desc lang="en">Try a new workout class every Wednesday evening with Fresh Air Fitness.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25293</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/fresh-air-fitness-2026?eventdate=2026-07-15T19%3A00%3A00&amp;schedule=25293</url>
+  </programme>
+  <programme start="20260718120000 -0400" end="20260718230000 -0400" channel="celebration-square.ca">
+    <title lang="en">RED FM Summer Bhangra Jam</title>
+    <desc lang="en">RED FM Summer Bhangra Jam is the ultimate celebration of South Asian culture, music, and community spirit.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24622</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/red-fm-summer-bhangra-jam-2026?eventdate=2026-07-18T12%3A00%3A00&amp;schedule=24622</url>
+  </programme>
+  <programme start="20260719150000 -0400" end="20260719170000 -0400" channel="celebration-square.ca">
+    <title lang="en">Watch the World Play</title>
+    <desc lang="en">FIFA World Cup 2026™ screenings</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25246</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/soccer-screenings-2026?eventdate=2026-07-19T15%3A00%3A00&amp;schedule=25246</url>
+  </programme>
+  <programme start="20260722080000 -0400" end="20260722150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25309</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-07-22T08%3A00%3A00&amp;schedule=25309</url>
+  </programme>
+  <programme start="20260722103000 -0400" end="20260722113000 -0400" channel="celebration-square.ca">
+    <title lang="en">Open Air Storytime presented by TD</title>
+    <desc lang="en">Open Air Storytime brings out the kid in all of us. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25404</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/open-air-storytime-2026?eventdate=2026-07-22T10%3A30%3A00&amp;schedule=25404</url>
+  </programme>
+  <programme start="20260722170000 -0400" end="20260722190000 -0400" channel="celebration-square.ca">
+    <title lang="en">Water Safety Awareness Day</title>
+    <desc lang="en">Enjoy learning valuable water safety information in a fun and interactive way from 5:00 p.m. to 7:00 p.m.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25799</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/water-safety-awareness-day-2026?eventdate=2026-07-22T17%3A00%3A00&amp;schedule=25799</url>
+  </programme>
+  <programme start="20260722190000 -0400" end="20260722200000 -0400" channel="celebration-square.ca">
+    <title lang="en">Fresh Air Fitness presented by TD</title>
+    <desc lang="en">Try a new workout class every Wednesday evening with Fresh Air Fitness.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25294</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/fresh-air-fitness-2026?eventdate=2026-07-22T19%3A00%3A00&amp;schedule=25294</url>
+  </programme>
+  <programme start="20260724180000 -0400" end="20260724230000 -0400" channel="celebration-square.ca">
+    <title lang="en">#BollywoodMonster Mashup</title>
+    <desc lang="en">#BollywoodMonster Mashup features international Bollywood stars, music &amp; dance performances, food, shopping and more!</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24569</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/bollywoodmonster-mashup-2026?eventdate=2026-07-24T18%3A00%3A00&amp;schedule=24569</url>
+  </programme>
+  <programme start="20260725120000 -0400" end="20260725230000 -0400" channel="celebration-square.ca">
+    <title lang="en">#BollywoodMonster Mashup</title>
+    <desc lang="en">#BollywoodMonster Mashup features international Bollywood stars, music &amp; dance performances, food, shopping and more!</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24570</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/bollywoodmonster-mashup-2026?eventdate=2026-07-25T12%3A00%3A00&amp;schedule=24570</url>
+  </programme>
+  <programme start="20260726120000 -0400" end="20260726190000 -0400" channel="celebration-square.ca">
+    <title lang="en">#BollywoodMonster Mashup</title>
+    <desc lang="en">#BollywoodMonster Mashup features international Bollywood stars, music &amp; dance performances, food, shopping and more!</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24571</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/bollywoodmonster-mashup-2026?eventdate=2026-07-26T12%3A00%3A00&amp;schedule=24571</url>
+  </programme>
+  <programme start="20260729080000 -0400" end="20260729150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25310</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-07-29T08%3A00%3A00&amp;schedule=25310</url>
+  </programme>
+  <programme start="20260729103000 -0400" end="20260729113000 -0400" channel="celebration-square.ca">
+    <title lang="en">Open Air Storytime presented by TD</title>
+    <desc lang="en">Open Air Storytime brings out the kid in all of us. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25405</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/open-air-storytime-2026?eventdate=2026-07-29T10%3A30%3A00&amp;schedule=25405</url>
+  </programme>
+  <programme start="20260729190000 -0400" end="20260729200000 -0400" channel="celebration-square.ca">
+    <title lang="en">Fresh Air Fitness presented by TD</title>
+    <desc lang="en">Try a new workout class every Wednesday evening with Fresh Air Fitness.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25295</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/fresh-air-fitness-2026?eventdate=2026-07-29T19%3A00%3A00&amp;schedule=25295</url>
+  </programme>
+  <programme start="20260731170000 -0400" end="20260731230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Mosaic 2026 - South Asian Festival of Mississauga</title>
+    <desc lang="en">Mosaic Festival celebrates its 21st anniversary at Mississauga&#x27;s Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24605</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/mosaic-2026---south-asian-festival-of-mississ?eventdate=2026-07-31T17%3A00%3A00&amp;schedule=24605</url>
+  </programme>
+  <programme start="20260801120000 -0400" end="20260801230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Mosaic 2026 - South Asian Festival of Mississauga</title>
+    <desc lang="en">Mosaic Festival celebrates its 21st anniversary at Mississauga&#x27;s Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24606</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/mosaic-2026---south-asian-festival-of-mississ?eventdate=2026-08-01T12%3A00%3A00&amp;schedule=24606</url>
+  </programme>
+  <programme start="20260805080000 -0400" end="20260805150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25311</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-08-05T08%3A00%3A00&amp;schedule=25311</url>
+  </programme>
+  <programme start="20260805103000 -0400" end="20260805113000 -0400" channel="celebration-square.ca">
+    <title lang="en">Open Air Storytime presented by TD</title>
+    <desc lang="en">Open Air Storytime brings out the kid in all of us. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25406</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/open-air-storytime-2026?eventdate=2026-08-05T10%3A30%3A00&amp;schedule=25406</url>
+  </programme>
+  <programme start="20260805190000 -0400" end="20260805200000 -0400" channel="celebration-square.ca">
+    <title lang="en">Fresh Air Fitness presented by TD</title>
+    <desc lang="en">Try a new workout class every Wednesday evening with Fresh Air Fitness.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25296</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/fresh-air-fitness-2026?eventdate=2026-08-05T19%3A00%3A00&amp;schedule=25296</url>
+  </programme>
+  <programme start="20260805200000 -0400" end="20260805213000 -0400" channel="celebration-square.ca">
+    <title lang="en">Amphitheatre Unplugged</title>
+    <desc lang="en">Enjoy a night in the amphitheatre showcasing the great local talent Mississauga has to offer. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25687</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/amphitheatre-unplugged-2026?eventdate=2026-08-05T20%3A00%3A00&amp;schedule=25687</url>
+  </programme>
+  <programme start="20260806200000 -0400" end="20260806220000 -0400" channel="celebration-square.ca">
+    <title lang="en">Movie Nights presented by INsauga</title>
+    <desc lang="en">Celebration Square hosts the largest outdoor movie screenings in the city. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25390</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/movie-nights-2026?eventdate=2026-08-06T20%3A00%3A00&amp;schedule=25390</url>
+  </programme>
+  <programme start="20260807170000 -0400" end="20260807230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Mississauga Latin Festival 2026</title>
+    <desc lang="en">The biggest Latino-Canadian celebration in Mississauga is coming your way!</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25276</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/mississauga-latin-festival-2026?eventdate=2026-08-07T17%3A00%3A00&amp;schedule=25276</url>
+  </programme>
+  <programme start="20260808120000 -0400" end="20260808230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Mississauga Latin Festival 2026</title>
+    <desc lang="en">The biggest Latino-Canadian celebration in Mississauga is coming your way!</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25277</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/mississauga-latin-festival-2026?eventdate=2026-08-08T12%3A00%3A00&amp;schedule=25277</url>
+  </programme>
+  <programme start="20260809120000 -0400" end="20260809190000 -0400" channel="celebration-square.ca">
+    <title lang="en">Mississauga Latin Festival 2026</title>
+    <desc lang="en">The biggest Latino-Canadian celebration in Mississauga is coming your way!</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25278</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/mississauga-latin-festival-2026?eventdate=2026-08-09T12%3A00%3A00&amp;schedule=25278</url>
+  </programme>
+  <programme start="20260812080000 -0400" end="20260812150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25312</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-08-12T08%3A00%3A00&amp;schedule=25312</url>
+  </programme>
+  <programme start="20260812103000 -0400" end="20260812113000 -0400" channel="celebration-square.ca">
+    <title lang="en">Open Air Storytime presented by TD</title>
+    <desc lang="en">Open Air Storytime brings out the kid in all of us. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25407</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/open-air-storytime-2026?eventdate=2026-08-12T10%3A30%3A00&amp;schedule=25407</url>
+  </programme>
+  <programme start="20260812190000 -0400" end="20260812200000 -0400" channel="celebration-square.ca">
+    <title lang="en">Fresh Air Fitness presented by TD</title>
+    <desc lang="en">Try a new workout class every Wednesday evening with Fresh Air Fitness.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25297</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/fresh-air-fitness-2026?eventdate=2026-08-12T19%3A00%3A00&amp;schedule=25297</url>
+  </programme>
+  <programme start="20260812200000 -0400" end="20260812213000 -0400" channel="celebration-square.ca">
+    <title lang="en">Amphitheatre Unplugged</title>
+    <desc lang="en">Enjoy a night in the amphitheatre showcasing the great local talent Mississauga has to offer. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25688</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/amphitheatre-unplugged-2026?eventdate=2026-08-12T20%3A00%3A00&amp;schedule=25688</url>
+  </programme>
+  <programme start="20260813200000 -0400" end="20260813220000 -0400" channel="celebration-square.ca">
+    <title lang="en">Movie Nights presented by INsauga</title>
+    <desc lang="en">Celebration Square hosts the largest outdoor movie screenings in the city. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25391</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/movie-nights-2026?eventdate=2026-08-13T20%3A00%3A00&amp;schedule=25391</url>
+  </programme>
+  <programme start="20260815120000 -0400" end="20260815230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Japan Festival Canada 2026</title>
+    <desc lang="en">Japan Festival Canada is the country’s largest celebration of Japanese culture, bringing together over 100,000 visitors for a vibrant, family-friendly experience. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">23456</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/japan-festival-canada-2026?eventdate=2026-08-15T12%3A00%3A00&amp;schedule=23456</url>
+  </programme>
+  <programme start="20260816110000 -0400" end="20260816190000 -0400" channel="celebration-square.ca">
+    <title lang="en">Japan Festival Canada 2026</title>
+    <desc lang="en">Japan Festival Canada is the country’s largest celebration of Japanese culture, bringing together over 100,000 visitors for a vibrant, family-friendly experience. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">23457</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/japan-festival-canada-2026?eventdate=2026-08-16T11%3A00%3A00&amp;schedule=23457</url>
+  </programme>
+  <programme start="20260819080000 -0400" end="20260819150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25313</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-08-19T08%3A00%3A00&amp;schedule=25313</url>
+  </programme>
+  <programme start="20260819190000 -0400" end="20260819200000 -0400" channel="celebration-square.ca">
+    <title lang="en">Fresh Air Fitness presented by TD</title>
+    <desc lang="en">Try a new workout class every Wednesday evening with Fresh Air Fitness.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25298</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/fresh-air-fitness-2026?eventdate=2026-08-19T19%3A00%3A00&amp;schedule=25298</url>
+  </programme>
+  <programme start="20260819200000 -0400" end="20260819213000 -0400" channel="celebration-square.ca">
+    <title lang="en">Amphitheatre Unplugged</title>
+    <desc lang="en">Enjoy a night in the amphitheatre showcasing the great local talent Mississauga has to offer. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25689</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/amphitheatre-unplugged-2026?eventdate=2026-08-19T20%3A00%3A00&amp;schedule=25689</url>
+  </programme>
+  <programme start="20260820200000 -0400" end="20260820220000 -0400" channel="celebration-square.ca">
+    <title lang="en">Movie Nights presented by INsauga</title>
+    <desc lang="en">Celebration Square hosts the largest outdoor movie screenings in the city. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25392</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/movie-nights-2026?eventdate=2026-08-20T20%3A00%3A00&amp;schedule=25392</url>
+  </programme>
+  <programme start="20260821170000 -0400" end="20260821230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Mississauga Italfest 2026</title>
+    <desc lang="en">Mississauga Italfest has dazzled crowds for over 14 years, standing out as one of the most vibrant and dynamic Italian festivals in Canada.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">23447</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/mississauga-italfest-2026?eventdate=2026-08-21T17%3A00%3A00&amp;schedule=23447</url>
+  </programme>
+  <programme start="20260822120000 -0400" end="20260822230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Mississauga Italfest 2026</title>
+    <desc lang="en">Mississauga Italfest has dazzled crowds for over 14 years, standing out as one of the most vibrant and dynamic Italian festivals in Canada.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">23448</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/mississauga-italfest-2026?eventdate=2026-08-22T12%3A00%3A00&amp;schedule=23448</url>
+  </programme>
+  <programme start="20260826080000 -0400" end="20260826150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25314</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-08-26T08%3A00%3A00&amp;schedule=25314</url>
+  </programme>
+  <programme start="20260826190000 -0400" end="20260826200000 -0400" channel="celebration-square.ca">
+    <title lang="en">Fresh Air Fitness presented by TD</title>
+    <desc lang="en">Try a new workout class every Wednesday evening with Fresh Air Fitness.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25299</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/fresh-air-fitness-2026?eventdate=2026-08-26T19%3A00%3A00&amp;schedule=25299</url>
+  </programme>
+  <programme start="20260826200000 -0400" end="20260826213000 -0400" channel="celebration-square.ca">
+    <title lang="en">Amphitheatre Unplugged</title>
+    <desc lang="en">Enjoy a night in the amphitheatre showcasing the great local talent Mississauga has to offer. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25690</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/amphitheatre-unplugged-2026?eventdate=2026-08-26T20%3A00%3A00&amp;schedule=25690</url>
+  </programme>
+  <programme start="20260827200000 -0400" end="20260827220000 -0400" channel="celebration-square.ca">
+    <title lang="en">Movie Nights presented by INsauga</title>
+    <desc lang="en">Celebration Square hosts the largest outdoor movie screenings in the city. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25393</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/movie-nights-2026?eventdate=2026-08-27T20%3A00%3A00&amp;schedule=25393</url>
+  </programme>
+  <programme start="20260828140000 -0400" end="20260828230000 -0400" channel="celebration-square.ca">
+    <title lang="en">MuslimFest 2026</title>
+    <desc lang="en">Featuring artists from all over the world, there is something for everyone to enjoy!</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24612</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/muslimfest-2026?eventdate=2026-08-28T14%3A00%3A00&amp;schedule=24612</url>
+  </programme>
+  <programme start="20260829120000 -0400" end="20260829230000 -0400" channel="celebration-square.ca">
+    <title lang="en">MuslimFest 2026</title>
+    <desc lang="en">Featuring artists from all over the world, there is something for everyone to enjoy!</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24613</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/muslimfest-2026?eventdate=2026-08-29T12%3A00%3A00&amp;schedule=24613</url>
+  </programme>
+  <programme start="20260830120000 -0400" end="20260830190000 -0400" channel="celebration-square.ca">
+    <title lang="en">MuslimFest 2026</title>
+    <desc lang="en">Featuring artists from all over the world, there is something for everyone to enjoy!</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24614</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/muslimfest-2026?eventdate=2026-08-30T12%3A00%3A00&amp;schedule=24614</url>
+  </programme>
+  <programme start="20260902080000 -0400" end="20260902150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25315</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-09-02T08%3A00%3A00&amp;schedule=25315</url>
+  </programme>
+  <programme start="20260902190000 -0400" end="20260902200000 -0400" channel="celebration-square.ca">
+    <title lang="en">Fresh Air Fitness presented by TD</title>
+    <desc lang="en">Try a new workout class every Wednesday evening with Fresh Air Fitness.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25300</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/fresh-air-fitness-2026?eventdate=2026-09-02T19%3A00%3A00&amp;schedule=25300</url>
+  </programme>
+  <programme start="20260903200000 -0400" end="20260903220000 -0400" channel="celebration-square.ca">
+    <title lang="en">Movie Nights presented by INsauga</title>
+    <desc lang="en">Celebration Square hosts the largest outdoor movie screenings in the city. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25394</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/movie-nights-2026?eventdate=2026-09-03T20%3A00%3A00&amp;schedule=25394</url>
+  </programme>
+  <programme start="20260905130000 -0400" end="20260905230000 -0400" channel="celebration-square.ca">
+    <title lang="en">The Egyptian Coptic Festival 2026</title>
+    <desc lang="en">Established in 2018, the Egyptian Coptic Festival is the 1st event showcasing Canadians from Egyptian Coptic origin in North America.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">23449</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/the-egyptian-coptic-festival-2026?eventdate=2026-09-05T13%3A00%3A00&amp;schedule=23449</url>
+  </programme>
+  <programme start="20260906130000 -0400" end="20260906210000 -0400" channel="celebration-square.ca">
+    <title lang="en">The Egyptian Coptic Festival 2026</title>
+    <desc lang="en">Established in 2018, the Egyptian Coptic Festival is the 1st event showcasing Canadians from Egyptian Coptic origin in North America.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">23450</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/the-egyptian-coptic-festival-2026?eventdate=2026-09-06T13%3A00%3A00&amp;schedule=23450</url>
+  </programme>
+  <programme start="20260909080000 -0400" end="20260909150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25316</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-09-09T08%3A00%3A00&amp;schedule=25316</url>
+  </programme>
+  <programme start="20260909190000 -0400" end="20260909200000 -0400" channel="celebration-square.ca">
+    <title lang="en">Fresh Air Fitness presented by TD</title>
+    <desc lang="en">Try a new workout class every Wednesday evening with Fresh Air Fitness.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25301</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/fresh-air-fitness-2026?eventdate=2026-09-09T19%3A00%3A00&amp;schedule=25301</url>
+  </programme>
+  <programme start="20260911180000 -0400" end="20260911230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Philippine Festival Mississauga</title>
+    <desc lang="en">Experience the vibrant spirit of Filipino heritage at PhilFest Sauga, a lively 3-day fiesta filled with joy, dance, and delicious traditional cuisine.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25249</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/philippine-festival-mississauga-2026?eventdate=2026-09-11T18%3A00%3A00&amp;schedule=25249</url>
+  </programme>
+  <programme start="20260912130000 -0400" end="20260912230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Philippine Festival Mississauga</title>
+    <desc lang="en">Experience the vibrant spirit of Filipino heritage at PhilFest Sauga, a lively 3-day fiesta filled with joy, dance, and delicious traditional cuisine.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25250</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/philippine-festival-mississauga-2026?eventdate=2026-09-12T13%3A00%3A00&amp;schedule=25250</url>
+  </programme>
+  <programme start="20260913130000 -0400" end="20260913190000 -0400" channel="celebration-square.ca">
+    <title lang="en">Philippine Festival Mississauga</title>
+    <desc lang="en">Experience the vibrant spirit of Filipino heritage at PhilFest Sauga, a lively 3-day fiesta filled with joy, dance, and delicious traditional cuisine.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25251</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/philippine-festival-mississauga-2026?eventdate=2026-09-13T13%3A00%3A00&amp;schedule=25251</url>
+  </programme>
+  <programme start="20260916080000 -0400" end="20260916150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25317</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-09-16T08%3A00%3A00&amp;schedule=25317</url>
+  </programme>
+  <programme start="20260918140000 -0400" end="20260918230000 -0400" channel="celebration-square.ca">
+    <title lang="en">AfroCan Roots &amp; Rhythms Festival</title>
+    <desc lang="en">Mississauga AfroCan - Roots &amp; Rhythms Festival is a two-day celebration of food, arts, music, and culture that highlights the rich heritage of diverse communities within Mississauga and the Region of Peel.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24610</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/afrocan-roots-rhythms-festival?eventdate=2026-09-18T14%3A00%3A00&amp;schedule=24610</url>
+  </programme>
+  <programme start="20260919120000 -0400" end="20260919230000 -0400" channel="celebration-square.ca">
+    <title lang="en">AfroCan Roots &amp; Rhythms Festival</title>
+    <desc lang="en">Mississauga AfroCan - Roots &amp; Rhythms Festival is a two-day celebration of food, arts, music, and culture that highlights the rich heritage of diverse communities within Mississauga and the Region of Peel.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24609</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/afrocan-roots-rhythms-festival?eventdate=2026-09-19T12%3A00%3A00&amp;schedule=24609</url>
+  </programme>
+  <programme start="20260923080000 -0400" end="20260923150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25318</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-09-23T08%3A00%3A00&amp;schedule=25318</url>
+  </programme>
+  <programme start="20260925160000 -0400" end="20260925230000 -0400" channel="celebration-square.ca">
+    <title lang="en">The 3rd Annual of Arts of the Middle East Festival</title>
+    <desc lang="en">The Arts of the Middle East Festival brings people together to celebrate the rich culture, vibrant traditions, and incredible flavors of the Middle East.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">23469</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/the-3rd-annual-of-arts-of-the-middle-east-fes?eventdate=2026-09-25T16%3A00%3A00&amp;schedule=23469</url>
+  </programme>
+  <programme start="20260926130000 -0400" end="20260926230000 -0400" channel="celebration-square.ca">
+    <title lang="en">The 3rd Annual of Arts of the Middle East Festival</title>
+    <desc lang="en">The Arts of the Middle East Festival brings people together to celebrate the rich culture, vibrant traditions, and incredible flavors of the Middle East.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">23470</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/the-3rd-annual-of-arts-of-the-middle-east-fes?eventdate=2026-09-26T13%3A00%3A00&amp;schedule=23470</url>
+  </programme>
+  <programme start="20260930080000 -0400" end="20260930150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25319</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-09-30T08%3A00%3A00&amp;schedule=25319</url>
+  </programme>
+  <programme start="20261007080000 -0400" end="20261007150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25320</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-10-07T08%3A00%3A00&amp;schedule=25320</url>
+  </programme>
+  <programme start="20261010120000 -0400" end="20261010230000 -0400" channel="celebration-square.ca">
+    <title lang="en">Canada Diwali RazzMatazz 2026</title>
+    <desc lang="en">Since 2014, the Indo-Canada Arts Council has hosted its annual festival at the prestigious Mississauga Celebration Square, attracting over 50,000 attendees each year. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24561</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/canada-diwali-razzmatazz-2026?eventdate=2026-10-10T12%3A00%3A00&amp;schedule=24561</url>
+  </programme>
+  <programme start="20261011120000 -0400" end="20261011210000 -0400" channel="celebration-square.ca">
+    <title lang="en">Canada Diwali RazzMatazz 2026</title>
+    <desc lang="en">Since 2014, the Indo-Canada Arts Council has hosted its annual festival at the prestigious Mississauga Celebration Square, attracting over 50,000 attendees each year. </desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">24562</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/canada-diwali-razzmatazz-2026?eventdate=2026-10-11T12%3A00%3A00&amp;schedule=24562</url>
+  </programme>
+  <programme start="20261014080000 -0400" end="20261014150000 -0400" channel="celebration-square.ca">
+    <title lang="en">Central Lions Farmers Market</title>
+    <desc lang="en">Shop local at this weekly local market on Celebration Square.</desc>
+    <category lang="en">Live Event</category>
+    <episode-num system="onscreen">25321</episode-num>
+    <url>https://www.mississauga.ca/arts-and-culture/events/lions-farmers-market-2026?eventdate=2026-10-14T08%3A00%3A00&amp;schedule=25321</url>
+  </programme>
+</tv>
